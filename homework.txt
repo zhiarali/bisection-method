@@ -1,0 +1,3 @@
+Bisection in google sheet : https://docs.google.com/spreadsheets/d/1O8kCZ4m2BFjVyrw3Pvwldba5-yKfrwuWAayw7oOo5Ds/edit?usp=sharing
+Bisetion in Colab : https://colab.research.google.com/drive/1PUIJCWRifN7xSp4W1atRrE2lT4wlBsDb?usp=sharing
+Bisection in Github : 
